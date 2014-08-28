@@ -1,6 +1,4 @@
-.*
 *~
-*.sw[a-p]
 
-# KDE
+# KDE directory preferences
 .directory
